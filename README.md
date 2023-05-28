@@ -1,5 +1,6 @@
 # What does it do?
 >This is a Python script which prompts for a folder path and then organizes said folder.
+***Download:*** [Organize2](https://github.com/1amASK/folder-organizer/raw/main/organize2.exe)
 ## Personal Info
 ---
 Some Links:
