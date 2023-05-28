@@ -1,7 +1,5 @@
 # What does it do?
-
 >This is a Python script which prompts for a folder path and then organizes said folder.
-
 ## Personal Info
 ---
 Some Links:
